@@ -8,96 +8,115 @@ local W = Window:MakeTab({
 })
 
 local M = Window:MakeTab({
-    Name = "hack 2",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local ST = Window:MakeTab({
-    Name = "hack 3",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local IQ = Window:MakeTab({
-    Name = "hack 4",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local S = Window:MakeTab({
-    Name = "hack 5",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local E = Window:MakeTab({
-    Name = "hack 6",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local RA = Window:MakeTab({
-    Name = "hack 7",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local LC = Window:MakeTab({
-    Name = "hack 8",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local Wld = Window:MakeTab({
-    Name = "hack 9",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local SV = Window:MakeTab({
-    Name = "hack 10",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local D = Window:MakeTab({
-    Name = "hack 11",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local R = Window:MakeTab({
-    Name = "hack 12",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local SH = Window:MakeTab({
-    Name = "hack 13",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local C = Window:MakeTab({
-    Name = "hack 14",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 local A = Window:MakeTab({
-    Name = "hack 15",
+    Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 W:AddButton({
-	Name = "Gojo 1/2",
+	Name = "Gojo 1/2 To Saitama",
 	Callback = function()
         getgenv().morph = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/BaldyToSorcerer/refs/heads/main/LatestV2.lua"))()
         end
-Tab:AddButton({
-	Name = "Jun",
+})
+W:AddButton({
+	Name = "Jun To Saitama",
 	Callback = function()
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Kenjihin69/Kenjihin69/refs/heads/main/Tp%20exploit%20saitama%20to%20jun'))()
+  	end
+})
+W:AddButton({
+	Name = "Toji To Samurai",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Giahao135/Tojifushiguro/refs/heads/main/Togiiiii"))()
+  	end
+})
+W:AddButton({
+	Name = "Deku to Garou",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/Mastery-Deku/refs/heads/main/Deku"))()
+  	end
+})
+W:AddButton({
+	Name = "Hakari",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/Hakari/refs/heads/main/Hakari"))()
   	end
 })
