@@ -92,11 +92,11 @@ local A = Window:MakeTab({
 W:AddButton({
 	Name = "Gojo 1/2",
 	Callback = function()
-        getgenv().morph = true -- turn false to true if you want custom accessories
-loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/BaldyToSorcerer/refs/heads/main/LatestV2.lua"))()  
-})
-W:AddButton({
+        getgenv().morph = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/BaldyToSorcerer/refs/heads/main/LatestV2.lua"))()
+Tab:AddButton({
 	Name = "Jun",
 	Callback = function()
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/Kenjihin69/Kenjihin69/refs/heads/main/Tp%20exploit%20saitama%20to%20jun'))()  
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Kenjihin69/Kenjihin69/refs/heads/main/Tp%20exploit%20saitama%20to%20jun'))()
+  	end
 })
