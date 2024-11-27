@@ -103,9 +103,9 @@ W:AddButton({
   	end
 })
 W:AddButton({
-	Name = "Toji To Samurai",
+	Name = "Bắn Tùm Lum ĐẾN Garou :)",
 	Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Giahao135/Tojifushiguro/refs/heads/main/Togiiiii"))()
+        loadstring(game:HttpGet("https://paste.ee/r/gKC8V"))()
   	end
 })
 W:AddButton({
@@ -120,3 +120,8 @@ W:AddButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/Hakari/refs/heads/main/Hakari"))()
   	end
 })
+W:AddButton({
+	Name = "Toji To Samurai",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Giahao135/Tojifushiguro/refs/heads/main/Togiiiii"))()
+  	end
