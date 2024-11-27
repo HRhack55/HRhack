@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "HRhack :)", HidePremium = false, IntroText = "nhà tài chợ Orion Library", SaveConfig = true, ConfigFolder = "Spaces Hub"})
+local Window = OrionLib:MakeWindow({Name = "HRhack :)", HidePremium = false, IntroText = "nhà tài trợ Orion Library", SaveConfig = true, ConfigFolder = "Spaces Hub"})
 ----------Tab-----------------------
 local W = Window:MakeTab({
     Name = "The Strongest Battleground",
