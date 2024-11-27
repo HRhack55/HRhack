@@ -94,6 +94,7 @@ W:AddButton({
 	Callback = function()
         getgenv().morph = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/BaldyToSorcerer/refs/heads/main/LatestV2.lua"))()
+        end
 Tab:AddButton({
 	Name = "Jun",
 	Callback = function()
