@@ -115,7 +115,7 @@ W:AddButton({
   	end
 })
 W:AddButton({
-	Name = "Hakari",
+	Name = "Hakari To Saitama",
 	Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/Hakari/refs/heads/main/Hakari"))()
   	end
