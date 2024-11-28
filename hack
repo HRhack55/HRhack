@@ -26,7 +26,7 @@ local OP = Window:MakeTab({
 })
 
 local S = Window:MakeTab({
-    Name = "???",
+    Name = "The Mimic",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
@@ -235,6 +235,36 @@ OP:AddButton({
   	end
 })
 OP:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+S:AddButton({
+	Name = "Rael Hub",
+	Callback = function()
+        loadstring(game:HttpGet"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt")()
+  	end
+})
+S:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+S:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+S:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+S:AddButton({
 	Name = "???",
 	Callback = function()
         
