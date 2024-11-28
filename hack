@@ -127,9 +127,9 @@ W:AddButton({
   	end
 })
 W:AddButton({
-	Name = "???",
+	Name = "Minos Prime V1 To Garou",
 	Callback = function()
-        
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/Minos-Prime-V1/refs/heads/main/The%20Strongest%20Battlegrounds"))()
   	end
 })
 W:AddButton({
