@@ -129,30 +129,24 @@ W:AddButton({
 W:AddButton({
 	Name = "???",
 	Callback = function()
-        Để script vào
+        
   	end
 })
 W:AddButton({
 	Name = "???",
 	Callback = function()
-        Để script vào
+        
   	end
 })
 W:AddButton({
 	Name = "???",
 	Callback = function()
-        Để script vào
+        
   	end
 })
 W:AddButton({
 	Name = "???",
 	Callback = function()
-        Để script vào
-  	end
-})
-W:AddButton({
-	Name = "???",
-	Callback = function()
-        Để script vào
+        
   	end
 })
