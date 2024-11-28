@@ -125,3 +125,4 @@ W:AddButton({
 	Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Giahao135/Tojifushiguro/refs/heads/main/Togiiiii"))()
   	end
+})
