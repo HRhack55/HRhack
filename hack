@@ -14,13 +14,13 @@ local M = Window:MakeTab({
 })
 
 local ST = Window:MakeTab({
-    Name = "???",
+    Name = "A Dusty Trip",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
-local IQ = Window:MakeTab({
-    Name = "???",
+local OP = Window:MakeTab({
+    Name = "jujutsu shenanigans",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
@@ -175,6 +175,66 @@ M:AddButton({
   	end
 })
 M:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+ST:AddButton({
+	Name = "Connect Hub",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/artemy133563/Utilities/main/ADustyTrip",true))()
+  	end
+})
+ST:AddButton({
+	Name = "Nurk Hub Dupe V2",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/AbdouGG/Nurk-Hub/main/DuperV2"))()
+  	end
+})
+ST:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+ST:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+ST:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+OP:AddButton({
+	Name = "Auto Black Flash",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/Auto-Black-Flash/refs/heads/main/jujutsu%20shenanigans"))()
+  	end
+})
+OP:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+OP:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+OP:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+OP:AddButton({
 	Name = "???",
 	Callback = function()
         
