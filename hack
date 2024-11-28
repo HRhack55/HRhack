@@ -126,3 +126,33 @@ W:AddButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Giahao135/Tojifushiguro/refs/heads/main/Togiiiii"))()
   	end
 })
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        Để script vào
+  	end
+})
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        Để script vào
+  	end
+})
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        Để script vào
+  	end
+})
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        Để script vào
+  	end
+})
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        Để script vào
+  	end
+})
