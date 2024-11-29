@@ -133,9 +133,9 @@ W:AddButton({
   	end
 })
 W:AddButton({
-	Name = "???",
+	Name = "Star Glitcher To Garou",
 	Callback = function()
-        
+        loadstring(game:HttpGet("https://paste.ee/r/mmQkO"))()
   	end
 })
 W:AddButton({
