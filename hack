@@ -85,7 +85,7 @@ local C = Window:MakeTab({
     PremiumOnly = false
 })
 local A = Window:MakeTab({
-    Name = "???",
+    Name = "Other Script",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
@@ -265,6 +265,156 @@ S:AddButton({
   	end
 })
 S:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
+	Name = "Infinite Yield",
+	Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+  	end
+})
+A:AddButton({
+	Name = "Mobile KeyBoard",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+  	end
+})
+A:AddButton({
+	Name = "Fly Gui V3",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/Fly-Gui-V3/refs/heads/main/Fly"))()
+  	end
+})
+A:AddButton({
+	Name = "Ghost Hub",
+	Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()
+  	end
+})
+A:AddButton({
+	Name = "HitBox",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/HitBox/refs/heads/main/HitBox"))()
+  	end
+})
+A:AddButton({
+	Name = "Simple Spy Mobile",
+	Callback = function()
+        loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Simple-Spy-Mobile-Script-Restored-22732"))()
+  	end
+})
+A:AddButton({
+	Name = "Vfly",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/Vfly/refs/heads/main/Vfly"))()
+  	end
+})
+A:AddButton({
+	Name = "Omg Hub",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"))()
+  	end
+})
+A:AddButton({
+	Name = "Drop Gui",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/Drop-Gui/refs/heads/main/Drop"))()
+  	end
+})
+A:AddButton({
+	Name = "Fling Gui",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/Fling%20GUI"))()
+  	end
+})
+A:AddButton({
+	Name = "Orange X V5",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ImJosh66/Ab2rW/main/ORANGEX%20V5%20RELEASED%20ORANGEX%20ON%20TOP%20.txt"))()
+  	end
+})
+A:AddButton({
+	Name = "Fe Freeze",
+	Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/creepstu/fuzzy-octo-giggle/main/Source'))()
+  	end
+})
+A:AddButton({
+	Name = "Rochips Universal",
+	Callback = function()
+        loadstring(game:HttpGet("https://rawscripts.net/raw/Brookhaven-RP-Rochips-Universal-21865"))()
+  	end
+})
+A:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
 	Name = "???",
 	Callback = function()
         
