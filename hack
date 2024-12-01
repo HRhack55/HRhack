@@ -139,6 +139,18 @@ W:AddButton({
   	end
 })
 W:AddButton({
+	Name = "Boros To Saitama",
+	Callback = function()
+        loadstring(game:HttpGet"https://paste.ee/r/XPIH5")()
+  	end
+})
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+W:AddButton({
 	Name = "???",
 	Callback = function()
         
