@@ -133,9 +133,9 @@ W:AddButton({
   	end
 })
 W:AddButton({
-	Name = "Star Glitcher To Garou",
+	Name = "Minos Prime V2 To Garou",
 	Callback = function()
-        loadstring(game:HttpGet("https://paste.ee/r/mmQkO"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/S1gmaGuy/Minosprime/refs/heads/main/Minos%20prime%20finally%20released"))()
   	end
 })
 W:AddButton({
@@ -151,9 +151,9 @@ W:AddButton({
   	end
 })
 W:AddButton({
-	Name = "???",
+	Name = "Star Glitcher To Garou",
 	Callback = function()
-        
+        loadstring(game:HttpGet("https://paste.ee/r/mmQkO"))()
   	end
 })
 W:AddButton({
