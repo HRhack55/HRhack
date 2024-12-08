@@ -169,13 +169,6 @@ W:AddButton({
   	end
 })
 W:AddButton({
-	Name = "Humbled To Garou",
-	Callback = function()
-        getgenv().color = Color3.new(1, 0, 0) -- customize colour vfx
-loadstring(game:HttpGet("https://paste.ee/r/7FuWC"))()
-  	end
-})
-W:AddButton({
 	Name = "???",
 	Callback = function()
         
