@@ -193,9 +193,9 @@ M:AddButton({
   	end
 })
 M:AddButton({
-	Name = "Alchemy Hub",
+	Name = "???",
 	Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/x2-Neptune/AlchemyHub/main/Main.lua"))()
+        
   	end
 })
 M:AddButton({
