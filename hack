@@ -99,7 +99,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/
 W:AddButton({
 	Name = "Jun To Saitama",
 	Callback = function()
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/Kenjihin69/Kenjihin69/refs/heads/main/Tp%20exploit%20saitama%20to%20jun'))()
+        loadstring(game:HttpGet("https://paste.ee/r/KRsP4"))()
   	end
 })
 W:AddButton({
@@ -193,9 +193,9 @@ M:AddButton({
   	end
 })
 M:AddButton({
-	Name = "???",
+	Name = "Alchemy Hub",
 	Callback = function()
-        
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/x2-Neptune/AlchemyHub/main/Main.lua"))()
   	end
 })
 M:AddButton({
