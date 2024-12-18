@@ -169,9 +169,9 @@ W:AddButton({
   	end
 })
 W:AddButton({
-	Name = "???",
+	Name = "KJ To Garou",
 	Callback = function()
-        
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/damir512/garoukjv1maybeidk/main/Protected_2460290213750059.txt",true))()
   	end
 })
 W:AddButton({
