@@ -175,9 +175,9 @@ W:AddButton({
   	end
 })
 W:AddButton({
-	Name = "???",
+	Name = "Kira To Garou",
 	Callback = function()
-        
+        loadstring(game:HttpGet("https://paste.ee/r/AyoFs"))()
   	end
 })
 W:AddButton({
