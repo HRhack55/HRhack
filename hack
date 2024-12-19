@@ -157,7 +157,7 @@ W:AddButton({
   	end
 })
 W:AddButton({
-	Name = "Titan To Saitama",
+	Name = "Titan To All Characters",
 	Callback = function()
         loadstring(game:HttpGet("https://paste.ee/r/fxY03"))()
   	end
@@ -175,7 +175,7 @@ W:AddButton({
   	end
 })
 W:AddButton({
-	Name = "Kira To Garou",
+	Name = "Kira Death Note To Garou",
 	Callback = function()
         loadstring(game:HttpGet("https://paste.ee/r/AyoFs"))()
   	end
