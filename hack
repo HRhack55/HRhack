@@ -451,27 +451,27 @@ A:AddButton({
   	end
 })
 A:AddButton({
-	Name = "???",
+	Name = "Climb",
 	Callback = function()
-        
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/0Ben1/fe/main/obf_vZDX8j5ggfAf58QhdJ59BVEmF6nmZgq4Mcjt2l8wn16CiStIW2P6EkNc605qv9K4.lua.txt'))()
   	end
 })
 A:AddButton({
-	Name = "???",
+	Name = "illusion",
 	Callback = function()
-        
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe/main/obf_11l7Y131YqJjZ31QmV5L8pI23V02b3191sEg26E75472Wl78Vi8870jRv5txZyL1.lua.txt"))()
   	end
 })
 A:AddButton({
-	Name = "???",
+	Name = "God Mode",
 	Callback = function()
-        
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/zephyr10101/ignore-touchinterests/main/main",true))()
   	end
 })
 A:AddButton({
-	Name = "???",
+	Name = "Kill NPC",
 	Callback = function()
-        
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/Kill-NPC/refs/heads/main/NPC"))()
   	end
 })
 A:AddButton({
