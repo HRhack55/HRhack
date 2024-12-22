@@ -31,8 +31,8 @@ local S = Window:MakeTab({
     PremiumOnly = false
 })
 
-local E = Window:MakeTab({
-    Name = "???",
+local B = Window:MakeTab({
+    Name = "Blox Fruit",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
@@ -88,6 +88,36 @@ local A = Window:MakeTab({
     Name = "Other Script",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
+})
+W:AddButton({
+	Name = "FFJ1",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/TSBUtils.lua"))()
+  	end
+})
+W:AddButton({
+	Name = "Run And Flash Step",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/Run-And-Flash-Step/refs/heads/main/The%20Strongest%20Battlegrounds"))()
+  	end
+})
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
 })
 W:AddButton({
 	Name = "Gojo 1/2 To Saitama",
@@ -178,6 +208,30 @@ W:AddButton({
 	Name = "Kira Death Note To Garou",
 	Callback = function()
         loadstring(game:HttpGet("https://paste.ee/r/AyoFs"))()
+  	end
+})
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+W:AddButton({
+	Name = "???",
+	Callback = function()
+        
   	end
 })
 W:AddButton({
@@ -385,9 +439,15 @@ A:AddButton({
   	end
 })
 A:AddButton({
-	Name = "???",
+	Name = "Death Note",
 	Callback = function()
-        
+        loadstring(game:HttpGet(('h'..'t'..'t'..'p'..'s'..':'..'/'..'/'..'p'..'a'..'s'..'t'..'e'..'f'..'y'..'.'..'a'..'pp'..'/'..'G'..'o'..'K'..'x'..'Y'..'B'..'k'..'U'..'/'..'r'..'a'..'w'), true))()
+  	end
+})
+A:AddButton({
+	Name = "Tool Vip",
+	Callback = function()
+        loadstring(game:HttpGet(('https://pastefy.app/VYIAk3o1/raw'),true))()
   	end
 })
 A:AddButton({
@@ -444,13 +504,31 @@ A:AddButton({
         
   	end
 })
-A:AddButton({
+B:AddButton({
+	Name = "HoHo Hub",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
+  	end
+})
+B:AddButton({
 	Name = "???",
 	Callback = function()
         
   	end
 })
-A:AddButton({
+B:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+B:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+B:AddButton({
 	Name = "???",
 	Callback = function()
         
