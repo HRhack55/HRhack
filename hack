@@ -177,7 +177,7 @@ W:AddButton({
 W:AddButton({
 	Name = "Okarun To Garou",
 	Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/LolnotaKid/Okarun/refs/heads/main/okarunMoveset.txt"))()
+        loadstring(game:HttpGet('https://paste.ee/r/yo244'))()
   	end
 })
 W:AddButton({
@@ -475,9 +475,9 @@ A:AddButton({
   	end
 })
 A:AddButton({
-	Name = "???",
+	Name = "Copy Id Animation",
 	Callback = function()
-        
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Mautiku/ehh/main/sussy's%20animation%20logger.txt",true))()
   	end
 })
 A:AddButton({
