@@ -547,6 +547,36 @@ A:AddButton({
   	end
 })
 A:AddButton({
+	Name = "Fe Xu Card Lép R6",
+	Callback = function()
+        loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
+  	end
+})
+A:AddButton({
+	Name = "Fe Xu Card Lép R15",
+	Callback = function()
+        loadstring(game:HttpGet("https://pastefy.app/YZoglOyJ/raw"))()
+  	end
+})
+A:AddButton({
+	Name = "Fe Dash R6/R15",
+	Callback = function()
+        loadstring(game:HttpGet("https://pastefy.app/ZhKVgCK3/raw"))()
+  	end
+})
+A:AddButton({
+	Name = "Fe Fighter R6",
+	Callback = function()
+        loadstring(game:HttpGet("https://pastefy.app/wxVAgZpT/raw"))()
+  	end
+})
+A:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+A:AddButton({
 	Name = "???",
 	Callback = function()
         
