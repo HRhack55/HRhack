@@ -102,9 +102,9 @@ W:AddButton({
   	end
 })
 W:AddButton({
-	Name = "???",
+	Name = "Fake DownSlam",
 	Callback = function()
-        
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Mautiku/ehh/refs/heads/main/Fake%20downslam.txt"))()
   	end
 })
 W:AddButton({
