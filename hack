@@ -571,9 +571,9 @@ A:AddButton({
   	end
 })
 A:AddButton({
-	Name = "???",
+	Name = "FE SCP 096",
 	Callback = function()
-        
+        loadstring(game:HttpGet("https://pastefy.app/YsJgITXR/raw"))()
   	end
 })
 A:AddButton({
