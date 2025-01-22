@@ -606,27 +606,3 @@ B:AddButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
   	end
 })
-B:AddButton({
-	Name = "???",
-	Callback = function()
-        
-  	end
-})
-B:AddButton({
-	Name = "???",
-	Callback = function()
-        
-  	end
-})
-B:AddButton({
-	Name = "???",
-	Callback = function()
-        
-  	end
-})
-B:AddButton({
-	Name = "???",
-	Callback = function()
-        
-  	end
-})
