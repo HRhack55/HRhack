@@ -1,5 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "HRhack :)", HidePremium = false, IntroText = "nhà tài trợ Orion Library", SaveConfig = true, ConfigFolder = "Spaces Hub"})
+local DiscordLib = loadstring(game:HttpGet "https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/discord")()
 ----------Tab-----------------------
 local W = Window:MakeTab({
     Name = "The Strongest Battleground",
