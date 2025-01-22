@@ -6,79 +6,66 @@ local W = Window:MakeTab({
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local M = Window:MakeTab({
     Name = "Fisch",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local ST = Window:MakeTab({
     Name = "A Dusty Trip",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local OP = Window:MakeTab({
     Name = "jujutsu shenanigans",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local S = Window:MakeTab({
     Name = "The Mimic",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local B = Window:MakeTab({
     Name = "Blox Fruit",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local RA = Window:MakeTab({
     Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local LC = Window:MakeTab({
     Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local Wld = Window:MakeTab({
     Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local SV = Window:MakeTab({
     Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local D = Window:MakeTab({
     Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local R = Window:MakeTab({
     Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local SH = Window:MakeTab({
     Name = "???",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
-
 local C = Window:MakeTab({
     Name = "???",
     Icon = "rbxassetid://4483345998",
@@ -604,5 +591,29 @@ B:AddButton({
 	Name = "HoHo Hub",
 	Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
+  	end
+})
+B:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+B:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+B:AddButton({
+	Name = "???",
+	Callback = function()
+        
+  	end
+})
+B:AddButton({
+	Name = "???",
+	Callback = function()
+        
   	end
 })
