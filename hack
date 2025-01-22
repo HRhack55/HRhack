@@ -1,6 +1,5 @@
-local DiscordLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/discord"))()
-local win = DiscordLib:Window("discord library")
-----------Tab-----------------------
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "Title of the library", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 local W = Window:MakeTab({
     Name = "The Strongest Battleground",
     Icon = "rbxassetid://4483345998",
