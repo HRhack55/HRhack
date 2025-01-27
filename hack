@@ -29,12 +29,6 @@ end)
 W:Button("Fake DownSlam", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Mautiku/ehh/refs/heads/main/Fake%20downslam.txt"))()
 end)
-W:Button("???", function()
-???
-end)
-W:Button("???", function()
-???
-end)
 W:Button("Gojo 1/2 To Saitama", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/BaldyToSorcerer/refs/heads/main/LatestV2.lua"))()
 end)
@@ -80,56 +74,8 @@ end)
 W:Button("Chainsaw Man To Ninja", function()
 loadstring(game:HttpGet("https://gist.githubusercontent.com/GoldenHeads2/0fd8d36993c850f3fac89e5adf793076/raw/ab4f5a42bd0b2e24a32a46301d533ea849ca771c/gistfile1.txt"))()
 end)
-W:Button("???", function()
-???
-end)
-W:Button("???", function()
-???
-end)
-W:Button("???", function()
-???
-end)
-W:Button("???", function()
-???
-end)
-W:Button("???", function()
-???
-end)
-W:Button("???", function()
-???
-end)
-W:Button("???", function()
-???
-end)
-W:Button("???", function()
-???
-end)
-W:Button("???", function()
-???
-end)
-W:Button("???", function()
-???
-end)
-W:Button("???", function()
-???
-end)
-W:Button("???", function()
-???
-end)
 M:Button("Speed Hub X", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
-end)
-M:Button("???", function()
-???
-end)
-M:Button("???", function()
-???
-end)
-M:Button("???", function()
-???
-end)
-M:Button("???", function()
-???
 end)
 ST:Button("Connect Hub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/artemy133563/Utilities/main/ADustyTrip",true))()
@@ -137,59 +83,14 @@ end)
 ST:Button("Nurk Hub Dupe V2", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AbdouGG/Nurk-Hub/main/DuperV2"))()
 end)
-ST:Button("???", function()
-???
-end)
-ST:Button("???", function()
-???
-end)
-ST:Button("???", function()
-???
-end)
 OP:Button("Auto Black Flash", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HRhack55/Auto-Black-Flash/refs/heads/main/jujutsu%20shenanigans"))()
 end)
 OP:Button("Xenon Hub V2", function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/7fe29a6a9dc2a08c84b8e2f0f5ef5810.lua"))()
 end)
-OP:Button("???", function()
-???
-end)
-OP:Button("???", function()
-???
-end)
-OP:Button("???", function()
-???
-end)
-S:Button("Rael Hub", function()
-loadstring(game:HttpGet"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt")()
-end)
-S:Button("???", function()
-???
-end)
-S:Button("???", function()
-???
-end)
-S:Button("???", function()
-???
-end)
-S:Button("???", function()
-???
-end)
 B:Button("HoHo Hub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
-end)
-B:Button("???", function()
-???
-end)
-B:Button("???", function()
-???
-end)
-B:Button("???", function()
-???
-end)
-B:Button("???", function()
-???
 end)
 A:Button("Infinite Yield", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
