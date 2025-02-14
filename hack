@@ -33,7 +33,9 @@ W:Button("Gojo 1/2 To Saitama", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/BaldyToSorcerer/refs/heads/main/LatestV2.lua"))()
 end)
 W:Button("Jun To Saitama", function()
-loadstring(game:HttpGet("https://paste.ee/r/KRsP4"))()
+getgenv().sendChat = false
+getgenv().BetterGraphics = false
+loadstring(game:HttpGet"https://raw.githubusercontent.com/wispwisp22/Limitless-legacy/refs/heads/main/ReuploadedJun")()
 end)
 W:Button("Bắn Tùm Lum ĐẾN Garou :)", function()
 loadstring(game:HttpGet("https://paste.ee/r/gKC8V"))()
@@ -73,6 +75,22 @@ loadstring(game:HttpGet("https://gist.githubusercontent.com/GoldenHeads2/5fe3178
 end)
 W:Button("Chainsaw Man To Ninja", function()
 loadstring(game:HttpGet("https://gist.githubusercontent.com/GoldenHeads2/0fd8d36993c850f3fac89e5adf793076/raw/ab4f5a42bd0b2e24a32a46301d533ea849ca771c/gistfile1.txt"))()
+end)
+W:Button("Shinji To Saitama", function()
+getgenv().speedtools = true --- use this tool if you want to run
+getgenv().speedpunch= true ---tp and normal Punch (have a bug)
+getgenv().dance= true ---song made by rebzyyx all I want is you 
+getgenv().night= false -- idk night?
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kenjihin69/Kenjihin69/refs/heads/main/Shinji%20tp%20exploit'))()
+end)
+W:Button("Luffy to Saitama", function()
+loadstring(game:HttpGet("https://github.com/aggiealledge/obfuscated-scripts/raw/refs/heads/main/Protected_7732857839120517.txt"))()
+end)
+W:Button("Deku To Suiryu", function()
+loadstring(game:HttpGet("https://github.com/aggiealledge/obfuscated-scripts/raw/refs/heads/main/deku%20suiryu%20thingy.txt"))()
+end)
+W:Button("Trash Can Man To All Character", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yes1nt/yes/refs/heads/main/Trashcan%20Man", true))()
 end)
 M:Button("Speed Hub X", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
