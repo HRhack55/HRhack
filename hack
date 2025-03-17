@@ -110,6 +110,18 @@ end)
 W:Button("Void Garou To Garou", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yes1nt/yes/refs/heads/main/Void%20Reaper%20Obfuscated.txt"))()
 end)
+W:Button("A Train To Garou", function()
+getgenv().settings = {
+["morph"] = {
+["enabled"] = false,
+["dontchangeskincolor"] = false,
+},
+["ult_forcewalkspeed"] = true, -- forces walkspeed even if set to 0
+["ult_walkspeed"] = 64, -- how fast you walk in ult
+["tp_duration"] = 0.15 -- how long it takes to tp
+} 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/ATrainSounds/refs/heads/main/ATrain.lua"))()
+end)
 M:Button("Speed Hub X", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
 end)
