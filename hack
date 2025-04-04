@@ -114,8 +114,7 @@ W:Button("A Train To Garou", function()
 getgenv().settings = {
 ["morph"] = {
 ["enabled"] = false,
-["dontchangeskincolor"] = false,
-},
+["dontchangeskincolor"] = false,},
 ["ult_forcewalkspeed"] = true, -- forces walkspeed even if set to 0
 ["ult_walkspeed"] = 64, -- how fast you walk in ult
 ["tp_duration"] = 0.15 -- how long it takes to tp
@@ -179,6 +178,9 @@ local o=C.AbilityCooldown C.AbilityCooldown=function(s,n,...)return o(s,n,0,...)
 end)
 BL:Button("Juke", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RedJDark/MAIN/refs/heads/main/juke"))()
+end)
+BL:Button("Hitbox Ball V2", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RedJDarks/MAIN/refs/heads/main/HitboxExpander"))()
 end)
 A:Button("Infinite Yield", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
