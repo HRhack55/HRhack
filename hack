@@ -14,7 +14,7 @@ local A = serv:Channel("Other Script")
 
 -- Tạo danh sách bản script
 FS:Button("Hutao Hub", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hdksakst-ship-it/Hutao-Hub-Omega-X/refs/heads/main/Forsaken-V4.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hdksakst-ship-it/Hutao-Hub-Omega-X/refs/heads/main/Forsaken-V4-Fix.txt"))()
 end)
 A:Button("Infinite Yield", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
