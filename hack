@@ -24,7 +24,7 @@ getfenv().ADittoKey="NOL_FRERKEY"---Put in key
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Syndromehsh/NOL/refs/heads/main/Nolsaken"))()
 end)
 FS:Button("Veronica Auto Trick", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/skibidi399/Veronica-stuff/refs/heads/main/Auto%20trick"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptluckisreal/AutoTheTrick/refs/heads/main/Autothetrickscript"))()
 end)
 A:Button("Infinite Yield", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
